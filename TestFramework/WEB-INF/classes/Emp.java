@@ -1,5 +1,8 @@
-package etu1788.framework.UrlMapping;
-import etu1788.*;
+package model;
+import etu1788.framework.UrlMapping;
+import java.util.HashMap;
+import java.util.Vector;
+
 
 public class Emp {
     int id;
